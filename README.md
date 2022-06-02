@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
 ## 
 
-- Knowledge in technologies
+### Knowledge in technologies
 <div style="display: inline_block; text-decoration: none;"><br>
   <img align="center" alt="Ogeda-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ogeda-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   
 ##
 
-- Contact
+### Contact
 <div style="display: inline_block; text-decoration: none;"> 
   <a href="mailto:rapha488@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raphael-ogeda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
