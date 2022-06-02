@@ -24,6 +24,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=og3da&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+## 
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Ogeda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ogeda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,6 +35,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Ogeda-Jenkins" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://s-media-cache-ak0.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </div>
+  
+##
   
 <div> 
   <a href = "mailto:rapha488@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
