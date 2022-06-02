@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!!!
 
 <!--
 **og3da/og3da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working with DevOps
+- 🌱 I’m currently learning Python, Java and SQL Server
+
+<div align="center">
+  <a href="https://github.com/og3da">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=og3da&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=og3da&layout=compact&langs_count=7&theme=dracula"/>
+</div>
