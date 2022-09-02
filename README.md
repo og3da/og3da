@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working with DevOps
+- 🔭 I’m currently working as a Junior Developer
 - 🌱 I’m currently learning Python, Java and SQL Server
 
 <div align="center">
