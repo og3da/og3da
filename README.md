@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a Junior Developer
-- 🌱 I’m currently learning Python, Java and SQL Server
+- 🔭 Atualmente trabalho como Analista Pleno
+- 🌱 Atualmente estou aprendendo Python, Automações CI/CD e Shell.
 
 <div align="center">
   <a href="https://github.com/og3da">
