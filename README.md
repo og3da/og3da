@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as Analist II / Atualmente trabalho como Analista Pleno
-- 🌱 I’m currently learning Python, Automation CI/CD and Shell / Atualmente estou aprendendo Python, Automações CI/CD e Shell.
+- 🌱 I’m currently learning Python, APIs development and Automation CI/CD / Atualmente estou aprendendo Python, Desenvolvimento de APIs e Automações CI/CD.
 
 <div align="center">
   <a href="https://github.com/og3da">
