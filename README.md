@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as Analist II / Atualmente trabalho como Analista Pleno
+- 🔭 I’m currently working as Developer / Atualmente trabalho como Desenvolvedor
 - 🌱 I’m currently learning Python, Java, APIs development and Automation CI/CD / Atualmente estou aprendendo Python, Java, Desenvolvimento de APIs e Automações CI/CD.
 
 <div align="center">
