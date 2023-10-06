@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 ### Knowledge in technologies / Conhecimento nas tecnologias
 <div style="display: inline_block; text-decoration: none;"><br>
+  <img align="center" alt="Ogeda-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/java-original.svg">
   <img align="center" alt="Ogeda-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ogeda-Shell" height="40" width="50" src="https://devicons.railway.app/i/bash.svg">
   <img align="center" alt="Ogeda-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
