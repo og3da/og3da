@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as Developer / Atualmente trabalho como Desenvolvedor
-- 🌱 I’m currently learning Python, Java, APIs development and Automation CI/CD / Atualmente estou aprendendo Python, Java, Desenvolvimento de APIs e Automações CI/CD.
+- 🔭 I’m currently working as Backend Software Engineer / Atualmente trabalho como Engenheiro de Software Backend
 
 <div align="center">
   <a href="https://github.com/og3da">
@@ -29,13 +28,10 @@ Here are some ideas to get you started:
 ### Knowledge in technologies / Conhecimento nas tecnologias
 <div style="display: inline_block; text-decoration: none;"><br>
   <img align="center" alt="Ogeda-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Ogeda-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ogeda-Shell" height="40" width="50" src="https://devicons.railway.app/i/bash.svg">
   <img align="center" alt="Ogeda-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ogeda-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ogeda-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ogeda-MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Ogeda-Jenkins" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
 </div>
   
 ##
